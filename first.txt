@@ -3,3 +3,8 @@ Hi, this is the first file.
 Hi, this is the first file.
 Hi, this is the first file.
 Hi, this is the first file.
+
+Hi we are doing this change for third commit.
+Hi we are doing this change for third commit.
+Hi we are doing this change for third commit.
+Hi we are doing this change for third commit.
