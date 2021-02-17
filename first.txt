@@ -4,7 +4,4 @@ Hi, this is the first file.
 Hi, this is the first file.
 Hi, this is the first file.
 
-Hi we are doing this change for third commit.
-Hi we are doing this change for third commit.
-Hi we are doing this change for third commit.
-Hi we are doing this change for third commit.
+Hi.. we are in C1-feature branch..and this line has been modified in this branch only
